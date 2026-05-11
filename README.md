@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0344-reverse-string) |
 ## String
 |  |
