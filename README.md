@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0074-search-a-2d-matrix) |
 | [0283-move-zeroes](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0704-binary-search) |
@@ -34,6 +35,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0704-binary-search) |
 ## Matrix
