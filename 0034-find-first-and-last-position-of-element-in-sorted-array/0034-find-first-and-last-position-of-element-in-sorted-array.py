@@ -1,26 +1,33 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        def findBound(isFirst):
-            left, right = 0, len(nums) - 1
-            bound = -1
-            
-            while left <= right:
-                mid = (left + right) // 2
-                
-                if nums[mid] == target:
-                    bound = mid 
-                    if isFirst:
-                        right = mid - 1
-                    else:
-                        left = mid + 1 
-                elif nums[mid] < target:
-                    left = mid + 1
-                else:
-                    right = mid - 1 
-            return bound
+    
+        def LowerBound(arry,target):
+            low, high = 0, len(nums) - 1
+            lb = -1
+            while low <= high:
+                mid = (low + high) // 2
 
-        start = findBound(True)
-        end = findBound(False)
-        
-        return [start, end]
-        
+                if nums[mid] == target:
+                    lb = mid 
+                    high = mid - 1
+                elif nums[mid] < target:
+                    low = mid + 1
+                else:
+                    high = mid - 1
+            return lb
+
+        def HigherBound(nums, target):
+            low, high = 0, len(nums) - 1
+            hb = -1
+            while low <= high:
+                mid = (low + high) // 2
+                if nums[mid] == target:
+                    hb = mid
+                    low = mid + 1   
+                elif nums[mid] < target:
+                    low = mid + 1
+                else:
+                    high = mid - 1
+            return hb
+        return [LowerBound(nums, target), HigherBound(nums, target)]
+      
