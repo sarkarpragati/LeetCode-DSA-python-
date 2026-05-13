@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0169-majority-element) |
@@ -52,6 +53,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
@@ -89,4 +91,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0203-remove-linked-list-elements) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
