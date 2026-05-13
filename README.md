@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0912-sort-an-array) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -35,6 +37,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -53,6 +56,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -73,5 +77,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
