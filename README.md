@@ -79,4 +79,12 @@
 | ------- |
 | [0169-majority-element](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
