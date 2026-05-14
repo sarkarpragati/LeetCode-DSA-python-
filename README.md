@@ -16,6 +16,7 @@
 | [0054-spiral-matrix](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0283-move-zeroes) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0344-reverse-string) |
 ## String
@@ -42,6 +44,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0912-sort-an-array) |
