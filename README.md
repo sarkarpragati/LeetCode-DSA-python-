@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0344-reverse-string) |
 ## Sorting
@@ -98,4 +99,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0059-spiral-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
