@@ -20,6 +20,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -28,6 +29,7 @@
 | [0001-two-sum](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,8 +110,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
