@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0496-next-greater-element-i) |
@@ -41,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0344-reverse-string) |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0933-number-of-recent-calls) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
