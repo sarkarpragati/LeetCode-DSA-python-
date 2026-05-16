@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0009-palindrome-number) |
 | [0368-largest-divisible-subset](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0396-rotate-function) |
 ## Array
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0169-majority-element](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0704-binary-search) |
@@ -149,4 +151,5 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0396-rotate-function) |
 <!---LeetCode Topics End-->
