@@ -19,6 +19,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0368-largest-divisible-subset) |
@@ -64,6 +65,7 @@
 | [0035-search-insert-position](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/sarkarpragati/LeetCode-DSA-python-/tree/master/0704-binary-search) |
 ## Matrix
 |  |
